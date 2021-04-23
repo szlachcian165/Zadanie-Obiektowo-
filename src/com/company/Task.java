@@ -10,6 +10,8 @@ public class Task {
     private String taskDescription;
     private Categories taskCategory;
 
+    public Task() {
+    }
 
 
     enum Categories{
